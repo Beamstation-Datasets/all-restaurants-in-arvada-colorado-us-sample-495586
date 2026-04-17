@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "All verified restaurant listings in Arvada, Colorado with a population of over 124k. Covers the local dining market filtered by the Restaurants category group with ratings, review trends, competitive rankings, and market positioning data. Refreshed weekly.",
+  "config_name": "All Restaurants in Arvada, Colorado, US",
+  "export_job_id": "cec3ede0-9aa0-43f6-a9b3-9e0a3d2e224d",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 495586,
+  "location_name": "Arvada",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-arvada-colorado-us-sample-495586",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/495586/beamstation_495586_restaurants-us-co_SAMPLE_DIST.csv",
+  "sample_pct": 9.83,
+  "sample_records": 23,
+  "sample_sha256": "4cdb6ee32244263844c20f19ba636c905d6de35ab45a151deac7010b39b00944",
+  "sample_size_bytes": 99040,
+  "total_records": 234,
+  "updated_at": "2026-04-14T11:25:02.731705+00:00"
+}
