@@ -1,12 +1,12 @@
 {
-  "export_job_id": "cec3ede0-9aa0-43f6-a9b3-9e0a3d2e224d",
+  "export_job_id": "46193d9c-8571-4179-87a9-f9c6f90ba857",
   "id_short": 495586,
-  "published_at": "2026-04-17T19:35:53Z",
+  "published_at": "2026-04-21T19:29:10Z",
   "repo_name": "all-restaurants-in-arvada-colorado-us-sample-495586",
   "sample_asset_name": "beamstation_495586_restaurants-us-co_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/495586/beamstation_495586_restaurants-us-co_SAMPLE_DIST.csv",
-  "sample_records": 23,
-  "sample_sha256": "4cdb6ee32244263844c20f19ba636c905d6de35ab45a151deac7010b39b00944",
-  "sample_size_bytes": 99040,
-  "total_records": 234
+  "sample_records": 19,
+  "sample_sha256": "568b0d0f6cecf8ae0f4c7c156f297d6351dd59114d2a410e473b00c498098e3a",
+  "sample_size_bytes": 87907,
+  "total_records": 191
 }
